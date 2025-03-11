@@ -3,18 +3,11 @@
 ## Objective:
 This project, completed as part of the Post Graduate Program in Data Science and Business Analytics, aimed to optimize inventory distribution for an FMCG company that recently entered the instant noodles market. The company faced demand-     supply mismatches across warehouses, leading to stock shortages in high-demand areas and overstocking in low-demand regions. The goal was to develop a predictive model that determines the optimum shipment weight for each warehouse and analyze demand patterns across different regions to guide inventory allocation and targeted marketing.
 
-</d>
 
-##Project Overview: Supply Chain Optimization Using Machine Learning
-
-Objective:
-
-This project, completed as part of the Post Graduate Program in Data Science and Business Analytics, aimed to optimize inventory distribution for an FMCG company that recently entered the instant noodles market. The company faced demand-supply mismatches across warehouses, leading to stock shortages in high-demand areas and overstocking in low-demand regions. The goal was to develop a predictive model that determines the optimum shipment weight for each warehouse and analyze demand patterns across different regions to guide inventory allocation and targeted marketing.
+Project Overview: Supply Chain Optimization Using Machine Learning
 
 
----
-
-Approach & Methodology:
+## Approach & Methodology:
 
 ✅ Data Collection & Preprocessing:
 
@@ -51,14 +44,10 @@ Recommended logistics improvements for warehouses facing transportation bottlene
 
 ---
 
-Business Impact & Future Scope:
+## Business Impact & Future Scope:
 
 🚀 Optimized inventory distribution, minimizing stockouts & overstocking.
 🚀 Improved supply chain efficiency, reducing logistics costs & storage losses.
 🚀 Enabled AI-driven demand forecasting, leading to better decision-making.
-
-Future improvements include integrating real-time IoT data, external market factors (competitor pricing, seasonal demand), and AI-driven automated replenishment systems to further enhance warehouse efficiency and profitability.
-
-Would you like me to refine this for your final presentation or resume summary? 🚀
 
 
